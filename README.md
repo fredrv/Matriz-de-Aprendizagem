@@ -20,16 +20,19 @@
         
 :white_medium_square: ***O que Já sei sobre os assuntos que serão abordados***:
     
-    - Sei, a partir do que aprendemos no primeiro módulo, a configurar e utilizar o VS Code e GitHub afim de escrever, praticar e compartilhar os estudos e projetos que fazemos;
+    - Sei, a partir do que aprendemos no primeiro módulo, a configurar e utilizar o VS Code e GitHub afim de 
+      escrever, praticar e compartilhar os estudos e projetos que fazemos;
   
-    - Aprendi, também, o básico de javascript e typescript, o que possibilitou a resolução de problemas simples relacionados à soma, subtração, divisão, listagem de itens etc;
+    - Aprendi, também, o básico de javascript e typescript, o que possibilitou a resolução de problemas simples
+      relacionados à soma, subtração, divisão, listagem de itens etc;
   
-    - Por fim, fui contextualizado e apresentado ao linkedin e à importância da gestão de tempo e das soft skills, que tem por finalidade auxiliar na empregabilidade e na manuntenção
-      das relações de trabalho, estudo e criação de um 'network'.
+    - Por fim, fui contextualizado e apresentado ao linkedin e à importância da gestão de tempo e das soft skills,
+      que têm por finalidade auxiliar na empregabilidade e na manuntenção das relações de trabalho, estudo e criação de um 'network'.
 
 :white_medium_square: ***O que quero aprender sobre os assuntos que serão abordados nesse módulo***:
     
-    - Quero continuar me aprofundando na programação, especificamente em typescritp, aprendendo a utilizar as ferramentas disponíveis para realizar projetos, idéias e exercícios 
+    - Quero continuar me aprofundando na programação, especificamente em typescritp, aprendendo a utilizar as 
+      ferramentas disponíveis para realizar projetos, idéias e exercícios 
     - Quero aprender melhor a fazer a gestão do meu tempo
     - Utilizar melhor o Linkedin e Github
     - Melhorar as softskills e os conhecimentos em relação à Ética na tecnologia
