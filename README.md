@@ -39,4 +39,8 @@
 
   :white_medium_square: ***O que aprendi no módulo 2***:
     
-    - 
+    - Aprendi a utilizar funções e seus métodos, como o map, filter, reduce, index, includes etc. Afim de manipular melhor os arrays e objetos.
+    - Aprofundei-me na utilização e importância dos tipos de dados
+    - Pratiquei de forma mais detalhada e complexa a utilização de variáveis, condicionais, strings e arrays
+    - Melhorei minha gestão de tempo e, finalmente, a utilizar melhor o Linkedin no objetivo de realizar minha transição de carreira
+    - Continuei praticando e aprimorando minhas Soft Skills
